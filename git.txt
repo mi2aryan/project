@@ -1,0 +1,2 @@
+Hi this a test txt file for git learning
+2nd commit
